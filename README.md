@@ -9,13 +9,13 @@ Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am cur
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Enterprise Incident-Response | Initial Triage, Metadata Analysis, Documentation | OSINT, ANY.RUN, Mxtoolbox, ripmime, Linux|  <a href="https://github.com/Ifeanyi-Es/Enterprise-Phishing-Triage-and-SOC-Incident-Response">VIEW</a>   |
-| Threat detection & SIEM System |Virtualization,  Log Analysis, Network Security, Threat Hunting & Detection, Tuning,  Documentation | Vmware, Wazuh, Pfsense Firewall, Linux & windows Endpoint, Hydra|  <a href="https://github.com/Ifeanyi-Es/Threat-detection-and-SIEM-lab">VIEW</a>   |
-| Credit Card Fraud Detection System |A.I Data driven security, Threat/Anomalies detection & Analysis | Python , Docker, Streamlit |  <a href="https://github.com/Ifeanyi-Es/ccfraud_App">VIEW</a>   |
-| Penetration Testing | Enumeration, Pen testing, Documentation | Nmap, Metasploit, Metasploitable2, VMware, ISO 270001|  <a href="https://github.com/Ifeanyi-Es/penetration-testing/">VIEW</a>   |
-|  Dns Zone Miscofiguration Vulnerability Lab               |           Reconnaissance & Enumeration, Dns Security and Pentesting                            |           Dig      |      <a href="https://github.com/Ifeanyi-Es/dns-zone-vulnerability">VIEW</a>           |
-| Secure web application | Web app dev, Web app Security | HTML, CSS, JS, BOOTSTRAP, PHP,MySQL, OWASP FRAMEWORK|  <a href="https://github.com/Ifeanyi-Es/secure-web-application">VIEW</a>   |
-| Risk Assessment |  Risk management, Policy, Documentation, Compliance and Auditing skills | Iso 27001 Framework|  <a href="https://github.com/Ifeanyi-Es/Risk-assessment/">VIEW</a>   |
+| Enterprise Incident-Response | Initial Triage, Metadata Analysis, Documentation | OSINT, ANY.RUN, Mxtoolbox, ripmime, Linux|  <a href="https://github.com/i-esegbue/Enterprise-Phishing-Triage-and-SOC-Incident-Response">VIEW</a>   |
+| Threat detection & SIEM System |Virtualization,  Log Analysis, Network Security, Threat Hunting & Detection, Tuning,  Documentation | Vmware, Wazuh, Pfsense Firewall, Linux & windows Endpoint, Hydra|  <a href="https://github.com/i-esegbue/Threat-detection-and-SIEM-lab">VIEW</a>   |
+| Credit Card Fraud Detection System |A.I Data driven security, Threat/Anomalies detection & Analysis | Python , Docker, Streamlit |  <a href="https://github.com/i-esegbue/ccfraud_App">VIEW</a>   |
+| Penetration Testing | Enumeration, Pen testing, Documentation | Nmap, Metasploit, Metasploitable2, VMware, ISO 270001|  <a href="https://github.com/i-esegbue/penetration-testing/">VIEW</a>   |
+|  Dns Zone Miscofiguration Vulnerability Lab               |           Reconnaissance & Enumeration, Dns Security and Pentesting                            |           Dig      |      <a href="https://github.com/i-esegbue/dns-zone-vulnerability">VIEW</a>           |
+| Full-stack web application | Web app dev, Web app Security | HTML, CSS, JS, BOOTSTRAP, PHP,MySQL, OWASP FRAMEWORK|  <a https://github.com/i-esegbue/Fullstack-hospital-internship-management-portal.git">VIEW</a>   |
+| Risk Assessment |  Risk management, Policy, Documentation, Compliance and Auditing skills | Iso 27001 Framework|  <a href="https://github.com/i-esegbue/Risk-assessment/">VIEW</a>   |
 |                 |                                       |                 |                 |
 
 

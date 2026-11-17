@@ -3,8 +3,7 @@
 ## [Ifeanyi Esegbue] Portfolio
 
 
-Hi, I'm <a href="">Ifeanyi</a> and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my Networking, Operating Systems, Scripting/Programming, Cloud Security, Penetration Testing, Cryptography, SIEM & Log Analysis, Risk Assessment & Compliance, Zero Trust Architecture implementation, Web application Security skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
-
+Hi, I'm Ifeanyi and this is my Cyber Security Portfolio. I am currently seeking a SOC Analyst position that leverages my hands-on skills in SIEM & Log Analysis (Wazuh), Network Traffic Analysis (Wireshark), Threat Detection, Incident Response, Networking, Operating Systems, Scripting/Programming, Cloud Security, Zero Trust Architecture, Risk Assessment & Compliance, and Web Application Security. I am eager to join a forward-thinking Security Operations Center where I can actively monitor, detect, and respond to threats to protect critical systems and data.
 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
